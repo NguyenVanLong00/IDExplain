@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ID Explain</string>
+    <string name="buttonup">ButtonUP</string>
+    <string name="buttondown">ButtonDown</string>
+    <string name="enter_id_number">Enter ID number</string>
+    <string name="result">TextView</string>
+    <string name="submit">Submit</string>
+</resources>
